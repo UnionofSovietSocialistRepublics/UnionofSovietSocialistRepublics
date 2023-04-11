@@ -1,6 +1,6 @@
 # Arrival
 - Hello, Im horizon (ofc that not my real name, h) I play mindustry, blons td6 and florr.io
-- I can code in hjson and js
+- I can code in hjson and js (and pascal too, I'm forced to do so)
 - have a discord bot and a mindustry mod
 
 <!---
