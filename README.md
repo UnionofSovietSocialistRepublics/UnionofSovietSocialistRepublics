@@ -1,12 +1,11 @@
 # Arrival
-- Hello, Im horizon (ofc that not my real name, h) I play mindustry, blons td6 and EU4
-- I can code in hjson and js (and pascal too, I'm forced to do so)
+- Helo, Im horizon
+- Mein vavorite gam: Eu4, Mindustry, Mincecrack and Bee tee dee 6
+- I can code in hjson and js, java (and pascal too, please send help im being held at gunpoint)
 - have a discord bot and a mindustry mod (and a minecrack mod that is semi abandoned (blame school, not me))
 
-<!---
-UnionofSovietSocialistRepublics/UnionofSovietSocialistRepublics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
 
 # Freddy fat bear
 ### Freddy fat bear
