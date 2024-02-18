@@ -5,7 +5,9 @@
 - have a discord bot and a mindustry mod (and a minecrack mod that is semi abandoned (blame school, not me))
 
 
-
+# Funny ahh website
+### Showcasing stuff that I made while bored
+### https://unionofsovietsocialistrepublics.github.io/
 
 # Freddy fat bear
 ### Freddy fat bear
