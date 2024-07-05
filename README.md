@@ -1,7 +1,7 @@
 # Arrival
 - Helo, Im horizon
 - Mein vavorite gam: Eu4, Mindustry, Mincecrack and Bee tee dee 6
-- I can code in hjson and js, java (and pascal too, please send help im being held at gunpoint)
+- I can code in and js, java (and pascal too, please send help im being held at gunpoint)
 - have a discord bot and a mindustry mod (and a minecrack mod that is semi abandoned (blame school, not me))
 
 [![Mein kramp](https://github-readme-stats.vercel.app/api?username=UnionofSovietSocialistRepublics&include_all_commits=true&hide_border=false&count_private=true&show_icons=true&theme=dark&title_color=ffffff&text_color=6f6f6f)]
